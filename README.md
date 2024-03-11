@@ -8,5 +8,8 @@ Resources for AWS Cloud Practitioner Exam 🚀
 2. https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html
 3. https://aws.amazon.com/what-is-cloud-computing/?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el
 
+### Task 1.2: Identify Design Principles of the AWS Cloud
+
+1. https://aws.amazon.com/architecture/well-architected/?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
 
 
