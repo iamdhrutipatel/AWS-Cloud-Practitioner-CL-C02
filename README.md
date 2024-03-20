@@ -1,6 +1,9 @@
 # AWS-Cloud-Practitioner-CL-C02
 Resources for AWS Cloud Practitioner Exam 🚀
 
+## AWS Certified Cloud Practitioner Notes Github Repo: (Includes Practice Exams)
+1. https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
+
 ## Domain 1: Cloud Concepts
 ### Task 1.1: Benefits of Cloud Computing
 
