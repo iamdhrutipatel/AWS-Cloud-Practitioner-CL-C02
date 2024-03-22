@@ -1,26 +1,30 @@
 # AWS-Cloud-Practitioner-CL-C02
 Resources for AWS Cloud Practitioner Exam 🚀
 
-## AWS Certified Cloud Practitioner Notes Github Repo: (Includes Practice Exams)
-1. https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
+## Overview
 
-## Domain 1: Cloud Concepts
-### Task 1.1: Benefits of Cloud Computing
+This repository contains valuable resources to help you prepare for the AWS Certified Cloud Practitioner (CLF-C02) exam. Whether you're just starting your journey into the cloud or looking to validate your AWS expertise, these resources will aid you in understanding the fundamental concepts, services, and best practices required to pass the exam.
 
-1. https://aws.amazon.com/what-is-aws/?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el
-2. https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html
-3. https://aws.amazon.com/what-is-cloud-computing/?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el
+## Resources
+GitHub Repo: https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes
+- Comprehensive notes covering key topics for the AWS Certified Cloud Practitioner exam.
+- Includes practice exams to test your knowledge and readiness for the exam.
 
-### Task 1.2: Identify Design Principles of the AWS Cloud
+## Credits
 
-1. https://aws.amazon.com/architecture/well-architected/?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el&wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc
+The notes pdf for individual topic are included in this repository are screenshots from the FreeCodeCamp YouTube video titled "AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!" by FreeCodeCamp.org.
 
-### Task 1.3: Understand the benefits of and strategies for migration to the AWS Cloud
+I've prepared for the exam by referencing this tutorial.
 
-1. https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-guide/migration-strategies.html?trk=97d9d934-9df9-4c19-b7f6-42a46b0280bd&sc_channel=el
-2. https://docs.aws.amazon.com/prescriptive-guidance/latest/application-portfolio-assessment-guide/prioritization-and-migration-strategy.html
-3. https://bluexp.netapp.com/blog/aws-cvo-blg-strategies-for-aws-migration-the-new-7th-r-explained
+Tutorial Link: https://www.youtube.com/watch?v=NhDYbskXRgc
 
-### Task 1.4:  Understand concepts of cloud economics
+## Contributing
 
-1. https://aws.amazon.com/economics/
+Your contributions to this repository are highly appreciated! If you have notes, additional resources, or practice exams to share, feel free to submit a pull request.
+
+## Disclaimer
+
+This repository is not affiliated with AWS. It is maintained by me to assist individuals preparing for the AWS Certified Cloud Practitioner exam.
+
+Best of luck with your exam preparation! Happy learning! 🌟
+
